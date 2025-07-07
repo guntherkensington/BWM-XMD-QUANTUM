@@ -21,7 +21,7 @@
     },
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_REPLY_STATUS": {
@@ -51,7 +51,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "RAPHACKER",
       "required": false
     },
     "BOT_URL": {
@@ -76,12 +76,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254748397839",
       "required": true 
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚♥️,💔❤️‍🩹,,🚀,🌎,✅",
       "required": false 
     },
     "AUTO_REACT": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Rapha Chege",
       "required": false
     },
     "SESSION_ID": {
@@ -111,7 +111,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
